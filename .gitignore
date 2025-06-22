@@ -1,0 +1,8 @@
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.out
+count_word.log
+count_word.csv
